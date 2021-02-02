@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="150605ed-446b-4a52-be5d-dc53654c32ef" name="Default Changelist" comment="" />
+    <list default="true" id="150605ed-446b-4a52-be5d-dc53654c32ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Exploratory_Data_Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/df_categorical.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/df_categorical.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/df_continuous.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/df_continuous.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/df_discrete.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/df_discrete.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_Preprocessing.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exploratory_Data_Analysis.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="44" />
             </state>
           </provider>
         </entry>
@@ -24,15 +39,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/EDA.ipynb" />
         <option value="$PROJECT_DIR$/Preprocessing.ipynb" />
+        <option value="$PROJECT_DIR$/Exploratory_Data_Analysis.py" />
+        <option value="$PROJECT_DIR$/Exploratory_Data_Analysis.ipynb" />
       </list>
     </option>
   </component>
@@ -54,6 +75,11 @@
             <path>
               <item name="Predicting_Click_through" type="b2602c69:ProjectViewProjectNode" />
               <item name="Predicting_Click_through" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Predicting_Click_through" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Predicting_Click_through" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -162,10 +188,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exploratory_Data_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data_Preprocessing.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exploratory_Data_Analysis.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="44" />
         </state>
       </provider>
     </entry>
